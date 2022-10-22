@@ -6,7 +6,7 @@
 <p align="left">
   <a></a>
 </p>
-<h2 align="left">Hugo Cayón</h2>
+<h2 align="left">Hugo</h2>
 <h4 align="left">I'm Hugo from Spain. I really enjoy learning programming languages and I use computers to have fun and learn</h4>
 <hr>
 <h3 align="left">Languages and Tools that I am studying:</h3>
