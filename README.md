@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @Hugocl01
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java, SQL, HTML, CSS and Markdown
