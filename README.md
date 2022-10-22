@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm @Hugocl01</h1>
 <h3 align="center">A passionate student web developer from Spain</h3>
 <img align="center" alt="Coding" width=100% src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif">
+<hr>
 <img align="right" alt="Coding" width=35% src="https://i.pinimg.com/originals/54/b5/b5/54b5b572a814ce721e1b01adabed5c84.gif">
 <p align="left">
   <a></a>
