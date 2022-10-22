@@ -1,7 +1,7 @@
 
 <h1>- 👋 Hi, I’m @Hugocl01 a web developer student</h1>
 <h3>- 🌱 I’m currently learning Java, SQL, HTML, CSS and Markdown</h3>
-<img src:"https://i.pinimg.com/originals/2e/73/f5/2e73f54bfd969a264820b1b9f5253db8.gif"></img>
+<img aling="center" alt="Coding" src:"https://i.pinimg.com/originals/2e/73/f5/2e73f54bfd969a264820b1b9f5253db8.gif">
 <h1 align="center">Hi 👋, I'm @Hugocl01</h1>
 <h3 align="center">A passionate student web developer from Spain</h3>
 <p align="left">
