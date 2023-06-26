@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm @Hugocl01</h1>
+<h1 align="center">Hi 👋, I'm Hugocl01</h1>
 <h3 align="center">A passionate student web developer from Spain</h3>
 <img align="center" alt="Coding" width=100% src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif">
 <hr>
