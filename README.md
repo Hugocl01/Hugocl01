@@ -1,19 +1,21 @@
-<h1 align="center">Hi 👋, I'm Hugocl01</h1>
-<h3 align="center">A passionate student web developer from Spain</h3>
-<img align="center" alt="Coding" width="100%" src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif">
+<h1 align="center">Hola 👋, soy Hugocl01</h1>
+<h3 align="center">Un apasionado estudiante de desarrollo web de España</h3>
+
+<p align="center">
+  <img alt="Coding" width="100%" src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif">
+</p>
 
 <hr>
 
 <img align="right" alt="Coding" width="35%" src="https://i.pinimg.com/originals/54/b5/b5/54b5b572a814ce721e1b01adabed5c84.gif">
+
+<h2 align="left">Hugo</h2>
+<h4 align="left">Soy Hugo de España. Disfruto mucho aprendiendo lenguajes de programación y uso la computadora para divertirme y aprender.</h4>
+
+<hr>
+
+<h3 align="left">Lenguajes y tecnologías que estoy estudiando:</h3>
 <p align="left">
-  <a></a>
-</p>
-
-<h3 align="left">Hugo</h3>
-<h4 align="left">I'm Hugo from Spain. I really enjoy learning programming languages and I use computers to have fun and learn</h4>
-
-<h3 align="left">Languages and Technologies that I am studying:</h3>
-<p align="left"> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> 
   </a> 
