@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Hugocl01</h1>
-<h3 align="center">Un apasionado estudiante de desarrollo web de España</h3>
+<h3 align="center">Un estudiante de desarrollo web de España</h3>
 
 <p align="center">
   <img alt="Coding" width="100%" src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif">
@@ -10,7 +10,7 @@
 <img align="right" alt="Coding" width="35%" src="https://i.pinimg.com/originals/54/b5/b5/54b5b572a814ce721e1b01adabed5c84.gif">
 
 <h2 align="left">Hugo</h2>
-<h4 align="left">Soy Hugo de España. Disfruto mucho aprendiendo lenguajes de programación y uso la computadora para divertirme y aprender.</h4>
+<h4 align="left">Soy Hugo de España. Disfruto mucho aprendiendo lenguajes de programación.</h4>
 
 <hr>
 
