@@ -1,4 +1,4 @@
-# 👋 Hola, soy Hugo Cayón
+# 👋 Hola, soy Hugo
 
 Desarrollador Web Full Stack. Actualmente me especializo en construir aplicaciones modernas con tecnologías como JavaScript y PHP.
 
