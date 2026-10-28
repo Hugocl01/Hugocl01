@@ -16,6 +16,7 @@ Construyo aplicaciones web cuidando tanto la interfaz como lo que hay detrás.
 
 ### Sobre mí
 
+- 💼 Trabajo como desarrollador web full stack
 - 🎓 Técnico Superior en Desarrollo de Aplicaciones Web — IES Miguel Herrero
 - ✍️ Escribo sobre desarrollo web y mi progreso como dev en [DevLog](https://devlog.tech)
 - 🌱 Ahora mismo: Next.js, Astro y aplicaciones que respetan la privacidad del usuario
@@ -32,11 +33,11 @@ Construyo aplicaciones web cuidando tanto la interfaz como lo que hay detrás.
     <td>Plataforma para fotógrafos: portafolio, comunidad y venta de presets. Laravel, Inertia y React.</td>
   </tr>
   <tr>
-    <td><b><a href="https://wheather-aura.vercel.app/">Aura</a></b></td>
+    <td><b><a href="https://github.com/Hugocl01/aura">Aura</a></b></td>
     <td>App del tiempo minimalista y sin rastreadores, con un fondo que reacciona al clima y la hora del día.</td>
   </tr>
   <tr>
-    <td><b><a href="https://cvify-iota.vercel.app/">CVify</a></b></td>
+    <td><b><a href="https://github.com/Hugocl01/cvify">CVify</a></b></td>
     <td>Crea tu currículum de forma rápida y totalmente personalizable.</td>
   </tr>
 </table>
